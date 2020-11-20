@@ -1,2 +1,2 @@
 # Infix-expression-to-postfix-and-prefix-in-8086
-The  expression is obtained 
+This Assembly Language Programming in 8086 is designed in such a way as infix Expressions are harder for Computers to evaluate because of the additional work needed to decide precedence. Infix notation is how expressions are written and recognized by humans and, generally, input to programs. Given that they are harder to evaluate, they are generally converted to one of the two remaining forms i.e.,infix -> postfix and infix -> prefix and our code evaluates the same.
